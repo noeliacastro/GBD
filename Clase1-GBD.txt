@@ -1,0 +1,17 @@
+Gestion bases de datos.
+
+Clase 1                                              13/3/26
+
+Solo puede tener una clave primaria o ninguna, la clave primaria también puede estar compuesta por 2 o mas campo
+ < > es el signo de negación al igual que  !=
+
+Cuando mezclamos campos con funciones agrupadas en las columnas de un select se debe agrupar por campos .
+
+La diferencia entre where y having
+Where condiciona campos y having condiciona funciones agrupadas
+Esto se usa para mysql y sql server
+
+para un join no es obligatorio tener fprenking key de una tabla apuntando a la otra tabla (integridad referencial)
+
+la clave primaria no  puede ser nula
+la clave unica  puede ser nula
